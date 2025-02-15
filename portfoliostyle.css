@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    padding: 5px;
+}
+
+body{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.section-one{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.section-one__name{
+    font-size: 60px;
+}
+
+.section-one__role{
+    font-size: 30px;
+}
+      
+.section-one__contact{
+    color: white;
+    background-color: orangered;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.section-two,.section-three,.section-four,.section-five{
+    margin-top: 10px;
+    
+}
+
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+    margin-top: 10px;
+}
+
+.section-three{
+    color: white;
+    background-color: #FDDB00;
+    display: inline-block;
+    vertical-align: top;
+    height: 250px;
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 10px;
+}
+
+.section-four{
+    color: white;
+    background-color: orangered;
+    display: inline-block;
+    padding: 25px;
+    height: 250px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.section-three li,.section-four li{
+    list-style: none;
+
+}
+
+.section-four a{
+    color: blue;
+}
+
+.section-five{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.section-five__title a{
+    color: blue;
+}
+
+.section-six{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.section-six__home{
+    color: white;
+    background-color: orangered;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.section-seven__input{
+    border: none;
+    border-bottom: solid red 1px;
+}
+
+.section-seven__textarea{
+    border: none;
+    border-bottom: solid red 1px;
+
+}
+
+.section-eight{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.section-eight a{
+    color: blue;
+}
+
